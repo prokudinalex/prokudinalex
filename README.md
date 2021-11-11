@@ -1,6 +1,6 @@
 ### Hi there
 - 🧔🏻‍ I'm a Senior Software Engineer at Yandex. Working at Smart Devices department (yep, those speakers with Alice inside).
-- 📫 How to reach me: [Telegram](https://t.me/prokudinalex) or [Email](mailto:prokudin89@gmail.com) or [LinkedIn](https://www.linkedin.com/in/prokudinalex/)
+- 💬 How to reach me: [Telegram](https://t.me/prokudinalex) or [Email](mailto:prokudin89@gmail.com) or [LinkedIn](https://www.linkedin.com/in/prokudinalex/)
 <!--
 **prokudinalex/prokudinalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
